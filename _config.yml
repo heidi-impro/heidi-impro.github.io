@@ -37,4 +37,4 @@ plugins:
 #   - sponsors.md
 #   - code-of-conduct.md
 
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
