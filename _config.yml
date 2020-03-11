@@ -27,7 +27,8 @@ minima:
     github: heidi-impro
 
 markdown: kramdown
-remote_theme: daattali/beautiful-jekyll
+#remote_theme: daattali/beautiful-jekyll
+remote_theme: jekyll/minima
 
 plugins:
   - jekyll-seo-tag
