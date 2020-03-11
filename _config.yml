@@ -28,7 +28,7 @@ minima:
 
 markdown: kramdown
 #remote_theme: daattali/beautiful-jekyll
-remote_theme: jekyll/minima
+#remote_theme: jekyll/minima
 
 plugins:
   - jekyll-seo-tag
@@ -37,4 +37,4 @@ plugins:
 #   - sponsors.md
 #   - code-of-conduct.md
 
-# theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
