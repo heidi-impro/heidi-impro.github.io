@@ -36,3 +36,5 @@ plugins:
 # header_pages:
 #   - sponsors.md
 #   - code-of-conduct.md
+
+theme: jekyll-theme-minimal
